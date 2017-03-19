@@ -10,6 +10,8 @@ echo 'hello,world!';
 
 echo 'it is me';
 
+echo 'add add';
+
 echo 'agin one line!';
 
 echo 'git 的 使用';
