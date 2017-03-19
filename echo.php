@@ -34,3 +34,5 @@ echo 'git add branch';
 echo "it's new to me ";
 
 echo 'master';
+
+echo 'netbeans';
