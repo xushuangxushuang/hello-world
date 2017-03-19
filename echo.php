@@ -6,6 +6,8 @@
  * and open the template in the editor.
  */
 
+echo 'new';
+
 echo 'hello,world!';
 
 echo 'it is me';
